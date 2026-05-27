@@ -1,7 +1,8 @@
 numpy
 pandas
-matplotlib
+matplotlib.pyplot
 seaborn
 plotly
+plotly.express
 streamlit
 openpyxl
